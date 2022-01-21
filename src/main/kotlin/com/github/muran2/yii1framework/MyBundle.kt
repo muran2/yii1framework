@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.muran2.yii1framework
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

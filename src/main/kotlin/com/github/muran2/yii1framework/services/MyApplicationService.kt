@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.muran2.yii1framework.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.muran2.yii1framework.MyBundle
 
 class MyApplicationService {
 

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.muran2.yii1framework.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.muran2.yii1framework.MyBundle
 
 class MyProjectService(project: Project) {
 
